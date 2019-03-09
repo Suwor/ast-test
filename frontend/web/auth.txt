@@ -1,0 +1,81 @@
+array(39) {
+  ["REDIRECT_STATUS"]=>
+  string(3) "200"
+  ["HTTP_HOST"]=>
+  string(12) "ast-test.loc"
+  ["HTTP_CONNECTION"]=>
+  string(10) "Keep-Alive"
+  ["HTTP_USER_AGENT"]=>
+  string(15) "PHP-SOAP/7.2.10"
+  ["CONTENT_TYPE"]=>
+  string(23) "text/xml; charset=utf-8"
+  ["HTTP_SOAPACTION"]=>
+  string(31) ""http://ast-test.loc#Calculate""
+  ["CONTENT_LENGTH"]=>
+  string(3) "598"
+  ["PATH"]=>
+  string(835) "c:\users\suwor\downloads\os\ospanel\modules\php\PHP-7.2\ext;c:\users\suwor\downloads\os\ospanel\modules\php\PHP-7.2\pear;c:\users\suwor\downloads\os\ospanel\modules\php\PHP-7.2\pear\bin;c:\users\suwor\downloads\os\ospanel\modules\php\PHP-7.2;c:\users\suwor\downloads\os\ospanel\modules\imagemagick;c:\users\suwor\downloads\os\ospanel\modules\wget\bin;c:\users\suwor\downloads\os\ospanel\modules\git;c:\users\suwor\downloads\os\ospanel\modules\git\bin;c:\users\suwor\downloads\os\ospanel\modules\git\mingw\bin;c:\users\suwor\downloads\os\ospanel\modules\git\cmd;c:\users\suwor\downloads\os\ospanel\modules\database\MySQL-5.7\bin;c:\users\suwor\downloads\os\ospanel\modules\http\Apache-PHP-7.2\bin;c:\users\suwor\downloads\os\ospanel\modules\http\Apache-PHP-7.2;C:\Windows\system32;C:\Windows;C:\Windows\system32\Wbem;C:\Windows\SysWOW64"
+  ["SystemRoot"]=>
+  string(10) "C:\Windows"
+  ["COMSPEC"]=>
+  string(27) "C:\Windows\system32\cmd.exe"
+  ["PATHEXT"]=>
+  string(53) ".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"
+  ["WINDIR"]=>
+  string(10) "C:\Windows"
+  ["SERVER_SIGNATURE"]=>
+  string(0) ""
+  ["SERVER_SOFTWARE"]=>
+  string(6) "Apache"
+  ["SERVER_NAME"]=>
+  string(12) "ast-test.loc"
+  ["SERVER_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["SERVER_PORT"]=>
+  string(2) "80"
+  ["REMOTE_ADDR"]=>
+  string(9) "127.0.0.1"
+  ["DOCUMENT_ROOT"]=>
+  string(69) "C:/Users/Suwor/Downloads/os/OSPanel/domains/ast-test.loc/frontend/web"
+  ["REQUEST_SCHEME"]=>
+  string(4) "http"
+  ["CONTEXT_PREFIX"]=>
+  string(0) ""
+  ["CONTEXT_DOCUMENT_ROOT"]=>
+  string(69) "C:/Users/Suwor/Downloads/os/OSPanel/domains/ast-test.loc/frontend/web"
+  ["SERVER_ADMIN"]=>
+  string(18) "[no address given]"
+  ["SCRIPT_FILENAME"]=>
+  string(79) "C:/Users/Suwor/Downloads/os/OSPanel/domains/ast-test.loc/frontend/web/index.php"
+  ["REMOTE_PORT"]=>
+  string(5) "52192"
+  ["REDIRECT_URL"]=>
+  string(12) "/soap/server"
+  ["GATEWAY_INTERFACE"]=>
+  string(7) "CGI/1.1"
+  ["SERVER_PROTOCOL"]=>
+  string(8) "HTTP/1.1"
+  ["REQUEST_METHOD"]=>
+  string(4) "POST"
+  ["QUERY_STRING"]=>
+  string(0) ""
+  ["REQUEST_URI"]=>
+  string(12) "/soap/server"
+  ["SCRIPT_NAME"]=>
+  string(10) "/index.php"
+  ["PHP_SELF"]=>
+  string(10) "/index.php"
+  ["PHP_AUTH_USER"]=>
+  string(6) "wertew"
+  ["PHP_AUTH_PW"]=>
+  string(6) "werewr"
+  ["REQUEST_TIME_FLOAT"]=>
+  float(1552136978.03)
+  ["REQUEST_TIME"]=>
+  int(1552136978)
+  ["argv"]=>
+  array(0) {
+  }
+  ["argc"]=>
+  int(0)
+}
